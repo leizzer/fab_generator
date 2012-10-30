@@ -37,7 +37,7 @@ class Generator:
     self.svn_user = self.string_question('SVN username')
 
     self.destination = self.string_question('Destination directory on server (ex: /home/wwwdata)')
-    self.project_name = self.string_question('Project name (ex: scan.estudio.com)')
+    self.project_name = self.string_question('Project name (ex: project.com)')
 
     # 0: svn_user, 1: svn_repo, 2: destination, 3: project_name
     self.add(
