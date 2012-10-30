@@ -1,3 +1,7 @@
+Yes yes... it's ugly and it's in one file. But I need it and I don't use python.
+
+I encourage you to improve the idea.
+
 For generate a new fabfile:
   
     python generator.py
